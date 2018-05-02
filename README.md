@@ -1,5 +1,8 @@
 # support
-Repository for the #support channel at https://discord.gg/discord-linux 
+
+Repository for the #support channel at https://discord.gg/discord-linux
+
+Please report any Discord issues to Discord Testers https://discord.gg/discord-testers
 
 ## Using SupportBot
 
